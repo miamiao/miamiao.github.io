@@ -83,3 +83,12 @@ Mia's
 - [텐텐절 고깃집 뒷풀이 LIVE](http://www.vlive.tv/video/14766)
 - [에런 스워츠](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9F%B0_%EC%8A%A4%EC%9B%8C%EC%B8%A0)
 - [보검 오빠](https://search.naver.com/search.naver?where=nexearch&sm=tab_jum&ie=utf8&query=%EB%B0%95%EB%B3%B4%EA%B2%80)
+
+
+### 인용구문
+인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
+HTML 언어에서는 <blockquote> 요소를 사용하여 인용절을 구조화한다. 
+
+> "뒤돌아 보는데 시간 낭비하지 마."<br>
+> "그쪽으로 가는 게 아니니까."br>
+> "봄날의 곰을 좋아하세요?"
