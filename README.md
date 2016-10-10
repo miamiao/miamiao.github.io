@@ -3,10 +3,9 @@ Mia's
 
 -
 
-# TODO
+# TO DO
 - [X] Study Markdown
 - [ ] make `index.html`
-
 
 
 
@@ -61,3 +60,10 @@ Mia's
 1. item1
 1. item2
 1. item3
+
+### 이미지
+```html 
+<img src="http://mimgnews2.naver.net/image/005/2016/09/27/201609271830_13180923622199_1_99_20160927183104.jpg" alt="이영오빠">
+```
+
+![이영오빠](http://mimgnews2.naver.net/image/005/2016/09/27/201609271830_13180923622199_1_99_20160927183104.jpg)
