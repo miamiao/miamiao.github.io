@@ -71,7 +71,7 @@ Mia's
 
 ![이영오빠](http://mimgnews2.naver.net/image/005/2016/09/27/201609271830_13180923622199_1_99_20160927183104.jpg)
 
-![이영오빠](Asset/2058.png "이영오빠")
+![이영오빠](Assets/2058.png "이영오빠")
 
 
 ### 하이퍼링크 
@@ -97,8 +97,38 @@ HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조�
 
 ### 표
 
+```html
+<table>
+	<tr>
+		<th>Job Type</th>
+		<th>Role</th>
+	</tr>
+
+	<tr>
+		<th>Planner</th>
+		<th>Plan</th>
+	</tr>
+
+	<tr>
+		<th>Designer</th>
+		<th>Design</th>
+	</tr>
+
+	<tr>
+		<th>Developer</th>
+		<th>Develop</th>
+	</tr>
+
+</table>
+
+```
+
+
+
+
 Job Type | Role
 ---|---
 Planner | Plan
 Designer | Design
 Developer | Develop
+
