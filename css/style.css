@@ -1,0 +1,18 @@
+
+/**
+* ---------------------------------------------
+* 브라우저 초기화 
+* --------------------------------------------- */
+
+body {
+	margin: 0;
+	font: 1.375rem/1.5 "Spooqa Han Sans", Dotum, Sans-Serif;
+	color: #fff;
+	background: #000 url("../Assets/main-bg.jpg") no-repeat center top;
+}
+
+h1 {
+	margin: 0;
+	font-weight: 200; /*Lighter*/
+	font-size: 5rem;
+}
