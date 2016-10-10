@@ -1,6 +1,14 @@
 # miamiao.github.io
 Mia's
 
+-
+
+# TODO
+- [X] Study Markdown
+- [ ] make `index.html`
+
+
+
 
 ## Markdown 문법 사용법
 
