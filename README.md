@@ -92,3 +92,13 @@ HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조�
 > "뒤돌아 보는데 시간 낭비하지 마."<br>
 > "그쪽으로 가는 게 아니니까." <br>
 > "봄날의 곰을 좋아하세요?"
+
+
+
+### 표
+
+Job Type | Role
+---|---
+Planner | Plan
+Designer | Design
+Developer | Develop
